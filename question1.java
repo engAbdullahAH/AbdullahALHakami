@@ -1,4 +1,4 @@
-package question1
+package question1;
 
 import.util.Scanner;
 public class Question1{
